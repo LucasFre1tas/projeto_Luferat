@@ -2,7 +2,7 @@
 
 /**
  * Gera conteúdo sempre em UTF-8.
- * DEVE SER sempre a primeira linha de código.
+ * DEVE SER sempre a primeira linha de código em um site PHP.
  */
 header('Content-Type: text/html; charset=utf-8');
 
